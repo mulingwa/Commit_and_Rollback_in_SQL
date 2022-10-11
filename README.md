@@ -1,1 +1,1 @@
-# An illustration of how to create a procedure that makes changes to a table and either commits them or rolls them back depending on the criteria met
+# An illustration of how to create a procedure that makes changes to a table and either commits them or rolls them back depending on the criteria met, create a stored procedure routine named TRANSACTION_ROSE which will include TCL commands like COMMIT and ROLLBACK.
